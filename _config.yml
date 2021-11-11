@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Kieren
+subtitle: 个人博客站
+description: 欢迎来到我的个人博客站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Kieren
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "https://leopardpan.cn"
+avatarDesc: Python/Golang Developer
+url: "https://little-five.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -19,8 +19,8 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 13272374945 
+    github: Little-Five
     # zhihu: panpanleopard
     # juejin: xxx
     jianshu: 2ada30d8d0f7
