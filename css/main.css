@@ -413,6 +413,7 @@ img::-moz-selection {
   .footer {
     display: block;
     padding: 2em 0 0 0;
+    margin-top: 100px;
     border-top: 1px solid #DDDDDD;
     font-size: .7em;
     color: #b3b3b3; }
@@ -420,6 +421,8 @@ img::-moz-selection {
   .footer__copyright {
     display: block;
     margin-bottom: .7em; 
+    text-align:center;
+    margin-top: 20px;
   }
   .footer__copyright a {
     color: #a6a6a6;
