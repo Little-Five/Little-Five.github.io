@@ -99,7 +99,7 @@ h3,
 h4,
 h5,
 h5 {
-  margin-top: 1.0em;
+  margin-top: 2.0em;
   margin-bottom: .5em;
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: lighter;
@@ -126,8 +126,8 @@ h3 {
   text-indent: 4px; 
   border-radius: 4px; 
   padding: 10px 15px;
-  margin-bottom: 20px;
-  margin-top: 5px;
+  margin-bottom: 15px;
+  margin-top: 20px;
   background:#B9D3EE;
   /*0px right, 5px botton, 5px fuzzy*/
   /* box-shadow: 0px 5px 5px #9FB6CD; */
@@ -327,8 +327,8 @@ img::-moz-selection {
 }
 
 .footer-social-icon {
-  width: 32px;
-  height: 32px;
+  width: 20px;
+  height: 20px;
   background-size: 15px;
 }
 
