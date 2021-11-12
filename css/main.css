@@ -125,7 +125,7 @@ h3 {
   font-size: 1.2em; 
   text-indent: 4px; 
   border-radius: 4px; 
-  padding: 6px 15px;
+  padding: 10px 15px;
   margin-bottom: 20px;
   margin-top: 5px;
   background:#B9D3EE;
@@ -327,8 +327,8 @@ img::-moz-selection {
 }
 
 .footer-social-icon {
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   background-size: 15px;
 }
 

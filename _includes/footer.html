@@ -13,14 +13,23 @@
           </li>
           {% endif %}
 
-          {% if site.social.zhihu %}
-          <!-- Zhihu -->
+          {% if site.social.wechat %}
+          <!-- wechat -->
           <li class="navigation__item_social">
-            <a href="https://www.zhihu.com/people/{{site.social.zhihu}}" title="@{{site.social.zhihu}}" target="_blank">
-              <div class="footer-social-icon" style="background:url(/images/zhihu.png);"></div>
+            <!-- https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MTIxMTA1OA==&scene=124#wechat_redirect -->
+            <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MTIxMTA1OA==&scene=124#wechat_redirect" title="@{{site.social.zhihu}}的微信公众号" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/wechat.png);"></div>
             </a>
           </li>
+          {% endif %}
 
+          {% if site.social.cnblogs %}
+          <!-- cnblogs -->
+          <li class="navigation__item_social">
+            <a href="https://www.cnblogs.com/{{site.social.cnblogs}}/" title="@{{site.social.cnblogs}}" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/blogs.png);"></div>
+            </a>
+          </li>
           {% endif %}
 
           {% if site.social.juejin %}
@@ -100,7 +109,7 @@
           <!-- 访问统计 -->
           <span id="busuanzi_container_site_pv">
             本站总访问量
-            <span id="busuanzi_value_site_pv"></span>次
+            <span id="busuanzi_value_site_pv">1200</span>次
           </span>
 
         </div>
